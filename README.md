@@ -6,9 +6,10 @@ A web-based library management system built with **plain Python and SQLite**, wi
 
 ## Screenshots
 
-|Book catalog|Overview|
+|Book catalog|
 |-|-|
 |<img width="1920" height="1080" alt="catalog" src="https://github.com/user-attachments/assets/de5e74e5-238c-48d3-8abd-fae9d34f6f3e" />
+|Overview|
 |<img width="1912" height="912" alt="overview" src="https://github.com/user-attachments/assets/01c4d6e9-a277-49ad-a5d1-41c55c2498a5" />
 |
 
